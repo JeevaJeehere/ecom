@@ -1,0 +1,19 @@
+footer li a{
+    text-decoration: none;
+    color: white;
+}
+
+.hover-zoom {
+    transition: transform 0.3s ease;
+  }
+
+  .hover-zoom:hover {
+    transform: scale(1.1);
+  }
+  .overflow-hidden{
+      overflow: hidden;
+  }
+  .new-arrivals .card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
